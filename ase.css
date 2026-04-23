@@ -1,9 +1,13 @@
 /* Definition der Farbpalette */
 :root {
-    --primary-color: #3498db;    /* Ein schönes Blau */
-    --secondary-color: #e74c3c;  /* Ein kräftiges Rot */
-    --background-color: #f4f4f9; /* Hellgrau für den Hintergrund */
-    --text-color: #2c3e50;       /* Dunkles Anthrazit für Text */
+    --primary-color: #34db69;
+    /* Ein schönes Blau */
+    --secondary-color: #e74c3c;
+    /* Ein kräftiges Rot */
+    --background-color: #f4f4f9;
+    /* Hellgrau für den Hintergrund */
+    --text-color: #2c3e50;
+    /* Dunkles Anthrazit für Text */
 }
 
 /* Grundlegendes Styling */
